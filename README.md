@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **web apps projects**
 
-- 🌱 I am learning, building and solving problems**
+- 🌱 I am **learning, building and solving problems**
 
 - 💬 Ask me about **JavaScript, React, Android**
 
