@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dayotech&label=Profile%20views&color=0e75b6&style=flat" alt="dayotech" /> </p>
 
-- 🔭 I’m currently working on **web apps projects**
+- 🔭 I’m currently working on **web & mobile app projects**
 
 - 🌱 I am **learning, building and solving problems**
 
