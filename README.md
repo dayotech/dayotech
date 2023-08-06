@@ -12,8 +12,6 @@
 
 📫 How to reach me **adebayotemidayo601@gmail.com**
 
-⚡ Fun fact **I am friendly**
-
 <h3 align="">Connect with me:</h3>
 <p align="">
 <a href="https://twitter.com/dayotech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dayotech" height="30" width="40" /></a>
