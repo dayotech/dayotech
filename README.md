@@ -9,7 +9,7 @@
 
 - 🌱 I am **learning, building and solving problems**
 
-- 💬 Ask me about **JavaScript, React, Android & ios**
+- 💬 Ask me about **JavaScript, React & Android**
 
 - 📫 How to reach me **adebayotemidayo601@gmail.com**
 
