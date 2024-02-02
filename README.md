@@ -6,8 +6,6 @@
 
 🌱 I am **learning, building and solving problems**
 
-💬 Ask me about **JavaScript, React & Android**
-
 📫 How to reach me **adebayotemidayo601@gmail.com**
 
 <h3 align="">Connect with me:</h3>
