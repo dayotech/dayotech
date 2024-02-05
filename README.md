@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dayotech&label=Profile%20views&color=0e75b6&style=flat" alt="dayotech" /> </p>
 
 I am **learning, building and solving coding problems** <br><br>
-I am workng on **web application projects** <br><br>
+I am working on **web application projects** <br><br>
 I am looking to collaborate on **Frontend projects** <br><br>
 Ask me about **Technology and Personal Development** <br><br>
 How to reach me **adebayotemidayo601@gmail.com** <br><br>
