@@ -7,9 +7,9 @@
 I am **learning, building and solving coding problems** <br><br>
 I am workng on **web application projects** <br><br>
 I am looking to collaborate on **Frontend projects** <br><br>
-Ask me about **Technology and Personal development** <br><br>
+Ask me about **Technology and Personal Development** <br><br>
 How to reach me **adebayotemidayo601@gmail.com** <br><br>
-Pronouns: Him/He
+Pronouns: He/Him
 
 ## About Me 
 Enthusiastic and user-focused Front End Developer. I am Interested in devising a better problem-solving method for challenging tasks and learning new technologies if the need arises.
