@@ -18,6 +18,7 @@ Enthusiastic and user-focused Front End Developer. I am Interested in devising a
 <a href="https://linkedin.com/in/adebayotemidayo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adebayotemidayo" height="30" width="40" /></a>
 <a href="https://fb.com/temmy_code" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dayotech" height="30" width="40" /></a>
 <a href="https://instagram.com/temmy.code" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dayotech" height="30" width="40" /></a>
+  <a href="https://instagram.com/temmy.code" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="dayotech" height="30" width="40" /></a>
 </p>
 
 
