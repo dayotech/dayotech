@@ -1,6 +1,8 @@
 <h3 align="center">Hi, there</h3>
 <h1 align="center">I'm Temidayo Adebayo</h1>
 
+<h2 align="center">~Frontend Developer~</h2>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dayotech&label=Profile%20views&color=0e75b6&style=flat" alt="dayotech" /> </p>
 
 I **build** things that work on the **web** <br><br>
